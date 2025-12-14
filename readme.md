@@ -74,7 +74,6 @@ Krishi Dost aims to bridge this gap by providing **AI-powered insights** directl
 
 ## 🏆 Achievements
 - 🏅 **Smart India Hackathon (SIH) 2025 – Finalist**
-- 🥇 **1st Place – Just A Minute (JAM)**, Kongu Engineering College
 
 ---
 
@@ -86,11 +85,6 @@ Krishi Dost aims to bridge this gap by providing **AI-powered insights** directl
 
 ---
 
-## 👨‍💻 Developer
-**Abishek**  
-GitHub: https://github.com/abishekx-driod
-
----
 
 ## ⭐ Support
 If you find this project useful, please ⭐ the repository.
